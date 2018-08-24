@@ -14,8 +14,7 @@ Out of the box jabber, sms and mail media is configured. You can add others by c
 2. [Zabbix-server-pgsql](https://hub.docker.com/r/zabbix/zabbix-server-pgsql/)
 3. [Zabbix-web-nginx-pgsql](https://hub.docker.com/r/zabbix/zabbix-web-nginx-pgsql/)
 4. [Zabbix-agent](https://hub.docker.com/r/zabbix/zabbix-agent/~/dockerfile/)
-5. [Adminer](https://hub.docker.com/_/adminer/) (optional)
-6. [Graffana](https://hub.docker.com/r/grafana/grafana/) (optional)
+5. [Graffana](https://hub.docker.com/r/grafana/grafana/) (optional)
 
 ### Docker-compose configuration(YML)
 
